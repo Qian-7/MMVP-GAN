@@ -1,3 +1,4 @@
+# Multi-modality SIQA Dataset 2024
 Multi-modality dataset for stereoscopic image quality accessment of Tianjin University, China.
 
 The brain-visual multi-modality SIQA database is constructed with 812 distorted images derived from 29 reference images, which contains the subjective ranking information and corresponding EEG signals.
